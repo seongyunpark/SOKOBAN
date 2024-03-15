@@ -1,0 +1,16 @@
+﻿  ConsoleLib.cpp
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(62,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(62,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(71,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(71,21): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(82,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(82,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(93,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+D:\취준\Console\SOKOBAN(거의완)-수정중중\ConsoleLib.cpp(93,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  main.cpp
+D:\취준\Console\SOKOBAN(거의완)-수정중중\main.cpp(90,87): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  sokoban.cpp
+D:\취준\Console\SOKOBAN(거의완)-수정중중\sokoban.cpp(278,69): warning C4805: '==': 연산에 'int' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+  Title_End_.cpp
+  코드를 생성하고 있습니다...
+  SOKOBAN.vcxproj -> D:\취준\Console\SOKOBAN(거의완)-수정중중\Debug\SOKOBAN.exe
